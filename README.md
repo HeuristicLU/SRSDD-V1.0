@@ -1,6 +1,10 @@
 # SRSDD-V1.0
 A High-Resolution SAR Rotation Ship Detection Dataset
 
+百度云下载链接：
+链接：https://pan.baidu.com/s/1EonxuMSDVCnICwSsfWjYew 
+提取码：aC1Q
+
 we released the SRSDD-v1.0 dataset. Compared
 with other existing SAR ship datasets, the unique advantages of our SRSDD-v1.0 dataset
 are fourfold.
